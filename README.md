@@ -4,12 +4,16 @@
 - Downloaded Netflix dataset from Kaggle
 - Cleaned and processed data using Pandas
 - Loaded data into MySQL
+<<<<<<< HEAD
 - Visualized insights using 
+=======
+- Visualized insights using Matplotlib and Seaborn
+>>>>>>> 4c8b18fbf17f6959d5ff936c8fb9c81e986b07bb
 
 ## Tools Used
 - Python, Pandas
 - MySQL
-- Power BI
+- Matplotlib and Seaborn
 - GitHub
 
 ## Setup
@@ -19,8 +23,3 @@
 4. Ensure MySQL is running and a database named `netflix_data` exists.
 5. Run `load_to_mysql.py` to load data into MySQL.
 6. Connect Power BI to your MySQL server and use the `netflix_shows` table.
-
-## Visualizations
-- Content type distribution
-- Titles added over years
-- Top genres and countries
