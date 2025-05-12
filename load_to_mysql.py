@@ -1,9 +1,9 @@
 from sqlalchemy import create_engine
 import pandas as pd
 
-# Replace with your credentials
-username = 'root'
-password = 'yourpassword'
+# Credentials
+username = 'Bala'
+password = 'Bala19'
 database = 'netflix_data'
 
 # Read cleaned dataset
