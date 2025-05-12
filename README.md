@@ -4,7 +4,7 @@
 - Downloaded Netflix dataset from Kaggle
 - Cleaned and processed data using Pandas
 - Loaded data into MySQL
-- Visualized insights using Power BI
+- Visualized insights using 
 
 ## Tools Used
 - Python, Pandas
