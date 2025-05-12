@@ -19,8 +19,3 @@
 4. Ensure MySQL is running and a database named `netflix_data` exists.
 5. Run `load_to_mysql.py` to load data into MySQL.
 6. Connect Power BI to your MySQL server and use the `netflix_shows` table.
-
-## Visualizations
-- Content type distribution
-- Titles added over years
-- Top genres and countries
