@@ -4,11 +4,7 @@
 - Downloaded Netflix dataset from Kaggle
 - Cleaned and processed data using Pandas
 - Loaded data into MySQL
-<<<<<<< HEAD
-- Visualized insights using 
-=======
 - Visualized insights using Matplotlib and Seaborn
->>>>>>> 4c8b18fbf17f6959d5ff936c8fb9c81e986b07bb
 
 ## Tools Used
 - Python, Pandas
